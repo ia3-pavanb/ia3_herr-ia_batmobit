@@ -1,6 +1,8 @@
 # Ejercicio master: Inteligencia Artificial Avanzada y Aplicada: IA^3
 ## Datos
-Alumno: Paul Van Branteghem
+Alumnos: 
+- Paul Van Branteghem
+- Nicolás Fernandez 
 
 ## Consideraciones:
 - Se trata de un ejercicio opcional a realizar en grupos de tres
